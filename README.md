@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Poonyawat Khomlek</h1>
+<h1 align="center">Hi, I'm Poonyawat Khomlek</h1>
 <h3 align="center">I'm a junior programmer from Mae Fah Luang University (MFU) School of Applied Digital Technology Major Software Engineering (SE). I'm fascinated and interestingly involved in programming and coding.I can adapt to the new programming language, framework, and other tools. I'm a passionate Backend developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poonyawat0511&label=Profile%20views&color=0e75b6&style=flat" alt="poonyawat0511" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poonyawat0511" alt="poonyawat0511" /></a> </p>
 
-- 🔭 I’m currently studying on MFU and this is a one of project from HLLC(How to live and learn) it is a Hazing but with out sotus. [HLLC](https://github.com/poonyawat0511/HLLC)
+- I’m currently studying on MFU and this is a one of project from HLLC(How to live and learn) it is a Hazing but with out sotus. [HLLC](https://github.com/poonyawat0511/HLLC)
 
-- 🌱 I’m currently learning **Fiber and Go language**
+- I’m currently learning **Fiber and Go language**
 
-- 📫 How to reach me **poonyawat0931@gmail.com**
+- How to reach me **poonyawat0931@gmail.com**
 
 - ⚡ Fun fact **I think I can able to adapt well to seniors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/poonyawat khomlek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poonyawat khomlek" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/poonyawat khomlek](https://www.linkedin.com/in/poonyawat-khomlek-b1b496326/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="poonyawat khomlek" height="30" width="40" /></a>
 <a href="https://fb.com/poonyawat khomlek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="poonyawat khomlek" height="30" width="40" /></a>
 <a href="https://instagram.com/p_oony4w4t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="p_oony4w4t" height="30" width="40" /></a>
 </p>
