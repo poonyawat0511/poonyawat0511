@@ -9,7 +9,7 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
 </picture>
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,py,go,cs,dart,react,nextjs,vue,nuxtjs,vuetify,nestjs,express,spring,bootstrap,tailwind,mysql,postgres,mongodb,sqlite,kafka,docker,nginx,figma,ps,postman,gcp,git,flutter,androidstudio,selenium&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,py,go,cs,dart,react,nextjs,vue,nuxtjs,vuetify,nestjs,express,spring,bootstrap,tailwind,mysql,postgres,mongodb,sqlite,kafka,docker,nginx,figma,ps,postman,gcp,git,flutter,androidstudio,selenium&perline=7)](https://skillicons.dev)
 </div>
 
 
